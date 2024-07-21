@@ -6,7 +6,7 @@ This project is a simple web application that allows users to fetch video URLs f
 
 ## Features
 
-- **Fetch Videos**: Enter the URL of a video page on `xnxx.com` and get the video links.
+- **Fetch Videos**: Enter the URL of a video page on `xvideos.com` and get the video links.
 - **License Validation**: Ensures that only users with a valid license key can fetch video links.
 - **Copy and Download Links**: Users can copy video links to the clipboard or download the videos directly.
 
